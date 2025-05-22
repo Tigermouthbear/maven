@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.gitlab.CDAGaming</groupId>
+  <artifactId>fabritone</artifactId>
+  <versioning>
+    <versions>
+      <version>fabritone~1.16.x-Fabric-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20210130031218</lastUpdated>
+  </versioning>
+</metadata>

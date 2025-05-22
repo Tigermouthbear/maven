@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.gitlab.CDAGaming</groupId>
+  <artifactId>fabritone</artifactId>
+  <version>fabritone~1.16.x-Fabric-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20210130031218</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>fabritone~1.16.x-Fabric-SNAPSHOT</value>
+        <updated>20210130031218</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>fabritone~1.16.x-Fabric-SNAPSHOT</value>
+        <updated>20210130031217</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>fabritone~1.16.x-Fabric-SNAPSHOT</value>
+        <updated>20210130031217</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
